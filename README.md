@@ -1,6 +1,7 @@
-# amazon_clone
+# Amazon_clone
 
 A new Flutter project.
+Fully Functional Amazon Online shopping Store
 
 ## Getting Started
 
